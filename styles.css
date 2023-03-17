@@ -15,7 +15,7 @@
 
 body {
   height: 100vh;
-  background: url(/img/to-do-list.jpg) no-repeat center center/cover;
+  background: url(./img/to-do-list.jpg) no-repeat center center/cover;
 
   display: flex;
   justify-content: center;
